@@ -1,7 +1,7 @@
 package br.com.dio;
 
 import br.com.dio.persistence.migration.MigrationStrategy;
-import br.com.dio.persistence.ui.MainMenu;
+import br.com.dio.ui.MainMenu;
 
 import java.sql.SQLException;
 

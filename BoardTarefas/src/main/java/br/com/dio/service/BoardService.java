@@ -1,4 +1,4 @@
-package br.com.dio.persistence.service;
+package br.com.dio.service;
 
 import br.com.dio.persistence.dao.BoardColumnDAO;
 import br.com.dio.persistence.dao.BoardDAO;
